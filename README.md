@@ -5,10 +5,10 @@ This Python script uses the Turtle graphics library to create a coronavirus-insp
 
 1. Make sure you have Python installed on your computer.
 
-2. Clone this repository:
+2. Clone this repository :
 https://github.com/sambitmitra7/Corona-Virus-Design
 
-3. Run the Python script:
+3. Run the Python script :
 corona_virus_design.py
 
 
